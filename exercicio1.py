@@ -15,3 +15,4 @@ b = aux
 
 print ('valor de a', a)
 print ('valor de b', b)
+print ('fim do algoritmo')
